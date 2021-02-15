@@ -1,0 +1,22 @@
+{
+  "name": "guns-and-roses-backend",
+  "version": "1.0.0",
+  "description": "The backend for the weapon receipt project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordRabbit357/guns-and-roses-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordRabbit357/guns-and-roses-backend/issues"
+  },
+  "homepage": "https://github.com/LordRabbit357/guns-and-roses-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
