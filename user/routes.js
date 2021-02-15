@@ -7,6 +7,7 @@ let rawdata = fs.readFileSync(path.resolve(__dirname, "./users.json"));
 let users = JSON.parse(rawdata);
 
 
+
 router.get('/:userId', function (req, res) {
   var id = req.params["userId"]
   user = users.find(user => user["userId"] == id)

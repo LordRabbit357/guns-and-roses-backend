@@ -1,6 +1,7 @@
 const express = require('express')
 var bodyParser = require('body-parser')
 const user = require("./user/routes")
+const request_menu = require("./request/routes")
 
 const app = express()
 const port = 3000
@@ -13,6 +14,7 @@ app.get('/', (req, res) => {
 })
 
 app.use("/user", user)
+app.use("/request", request_menu)
 
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
