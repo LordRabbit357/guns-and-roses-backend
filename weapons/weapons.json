@@ -1,0 +1,18 @@
+[
+    {
+        "model" : "Short M16",
+        "id" : "1234567"
+    },
+    {
+        "model" : "Long M16",
+        "id" : "2345678"
+    },
+    {
+        "model" : "Tavor",
+        "id" : "3456789"
+    },
+    {
+        "model" : "MicroTavor",
+        "id" : "4567890"
+    }
+]
