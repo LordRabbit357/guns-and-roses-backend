@@ -1,0 +1,30 @@
+[
+    {
+        "userId": 8535096,
+        "roles": ["SOL", "COM"],
+        "password": "Aa123456",
+        "name": "Michael Sapozhnikov",
+        "directCommander": 8001234
+    },
+    {
+        "userId": 8487369,
+        "roles": ["SOL"],
+        "password": "Bb123456",
+        "name": "David Bromberg",
+        "directCommander": 8535096
+    },
+    {
+        "userId": 8865421,
+        "roles": ["SOL", "GUN"],
+        "password": "Gg123456",
+        "name": "Gabriel Golomb",
+        "directCommander": 8765432
+    },
+    {
+        "userId": 8652086,
+        "roles": ["SOL"],
+        "password": "Cc123456",
+        "name": "Jonathan Bloch",
+        "directCommander": 8535096
+    }
+]
