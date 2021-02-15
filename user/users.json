@@ -3,28 +3,28 @@
         "userId": 8535096,
         "roles": ["SOL", "COM"],
         "password": "Aa123456",
-        "name": "Michael Sapozhnikov",
+        "name": "Axl Rose",
         "directCommander": 8001234
     },
     {
         "userId": 8487369,
         "roles": ["SOL"],
         "password": "Bb123456",
-        "name": "David Bromberg",
+        "name": "Duff McKagan",
         "directCommander": 8535096
     },
     {
         "userId": 8865421,
         "roles": ["SOL", "GUN"],
         "password": "Gg123456",
-        "name": "Gabriel Golomb",
+        "name": "Dizzy Reed",
         "directCommander": 8765432
     },
     {
         "userId": 8652086,
         "roles": ["SOL"],
         "password": "Cc123456",
-        "name": "Jonathan Bloch",
+        "name": "Richard Fortus",
         "directCommander": 8535096
     }
 ]
